@@ -1,0 +1,11 @@
+intra=0.914 inter=0.173 acc=0.9381 lat_p99=2.70ms
+              precision    recall  f1-score   support
+
+    browsing       0.91      0.90      0.90      1200
+   streaming       0.91      0.92      0.92      1201
+  video_call       0.96      0.96      0.96      1200
+      gaming       0.98      0.98      0.98      1200
+
+    accuracy                           0.94      4801
+   macro avg       0.94      0.94      0.94      4801
+weighted avg       0.94      0.94      0.94      4801
